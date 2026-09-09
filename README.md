@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard
 
-## Dashboard Preview
+## KPI Structure
 
 ![Dashboard](assets/KPI.jpg)
 
