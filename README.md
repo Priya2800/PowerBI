@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard
 
-## KPI Structure
+## KPI as a single data points/Small charts
 
 ![Dashboard](assets/KPI.jpg)
 
